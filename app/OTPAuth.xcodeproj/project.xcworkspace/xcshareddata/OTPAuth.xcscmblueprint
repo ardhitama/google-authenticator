@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4B8547CCD1FA732F711A5EDB9ED559B495D5A67D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CC92616B63F4183780441F0248ACBAEF9F80AB62" : 9223372036854775807,
+    "4B8547CCD1FA732F711A5EDB9ED559B495D5A67D" : 9223372036854775807,
+    "9245F4ABE6B2B191575834AAD6BD4734A18142EF" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FF4766B9-C3B0-4C9F-893B-2C84DAC746D6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CC92616B63F4183780441F0248ACBAEF9F80AB62" : "google-authenticator-for-mac\/externals\/zxing\/",
+    "4B8547CCD1FA732F711A5EDB9ED559B495D5A67D" : "google-authenticator-for-mac\/",
+    "9245F4ABE6B2B191575834AAD6BD4734A18142EF" : "google-authenticator-for-mac\/externals\/google-toolbox-for-mac\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "OTPAuth",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "app\/OTPAuth.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ardhitama\/google-authenticator-for-mac.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4B8547CCD1FA732F711A5EDB9ED559B495D5A67D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ardhitama\/google-toolbox-for-mac.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9245F4ABE6B2B191575834AAD6BD4734A18142EF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ardhitama\/zxing.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CC92616B63F4183780441F0248ACBAEF9F80AB62"
+    }
+  ]
+}

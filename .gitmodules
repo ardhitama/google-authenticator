@@ -1,0 +1,8 @@
+[submodule "externals/google-toolbox-for-mac"]
+	path = externals/google-toolbox-for-mac
+	url = git@github.com:ardhitama/google-toolbox-for-mac.git
+	branch = master
+[submodule "externals/zxing"]
+	path = externals/zxing
+	url = git@github.com:ardhitama/zxing.git
+	branch = master
